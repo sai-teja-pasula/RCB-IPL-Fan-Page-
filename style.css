@@ -11,16 +11,16 @@ header {
   text-align: center;
   padding: 2rem 1rem;
 }
-.logo {
-  width: 120px;
-  height: auto;
-  margin-bottom: 1rem;
-}
-
 
 header h1 {
   margin: 0;
   font-size: 2.5rem;
+}
+
+.logo {
+  width: 80px;
+  height: auto;
+  margin-bottom: 1rem;
 }
 
 nav {
@@ -40,7 +40,8 @@ section {
   padding: 2rem;
 }
 
-.squad-list, .trophies-list {
+.squad-list,
+.trophies-list {
   background: #1a0000;
   padding: 1rem;
   border-radius: 8px;
