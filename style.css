@@ -1,0 +1,49 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #000;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #aa0000;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+nav {
+  background: #660000;
+  text-align: center;
+  padding: 1rem;
+}
+
+nav a {
+  color: #ffcc00;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding: 2rem;
+}
+
+.squad-list, .trophies-list {
+  background: #1a0000;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-top: 1rem;
+}
+
+footer {
+  text-align: center;
+  background: #330000;
+  padding: 1rem;
+  color: #ffcc00;
+}
